@@ -34,10 +34,10 @@ os.system("espeak -a 300 \"UPDATE VERSION 6.1,\"")
 time.sleep(2)
 #os.system('clear')
 print("\033[95;1m[\x1b[35;5;50m+\033[97;1m]\x1b[35;5;50m SUBSCRIBE MY Telegram CHANNEL..!")
-os.system("espeak -a 300 \"SUBSCRIBE,MY,YOUTUBE,CHANNEL,\"")
+os.system("espeak -a 300 \"Assalamu Alaikum,\"")
 time.sleep(2)
-os.system(f'xdg-open https://t.me/WASIM99EHCfree')
-os.system(f'xdg-open https://t.me/WASIM99EHCfree')
+os.system(f'xdg-open https://www.facebook.com/profile.php?id=100092503065470')
+os.system(f'xdg-open https://www.facebook.com/profile.php?id=100092503065470')
 ##os.system("espeak -a 300 \"Enter,Username,and,password, \"")##
 #------------------[ MR-WASIM ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
@@ -1294,7 +1294,7 @@ cokbrut=[]
 ses=requests.Session()
 prinCP=[]
 try:
-    prox= requests.get('https://github.com/Husain1290/Xxxxx/blob/main/txt').text
+    prox= requests.get('https://github.com/Husain1290/vty/blob/main/sksFb1.txt').text
     open('.prox.txt','w').write(prox)
 except Exception as e:
     pass
@@ -1536,7 +1536,7 @@ def uaku():
         for ub in ua:
             ugen.append(ub)
     except:
-        a=requests.get('https://github.com/Husain1290/Xxxxx/blob/main/txt').text
+        a=requests.get('https://github.com/Husain1290/vty/blob/main/sksFb1.txt').text
         ua=open('bbnew.txt','w')
         aa=re.findall('line">(.*?)<',str(a))
         for un in aa:
